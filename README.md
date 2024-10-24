@@ -7,7 +7,7 @@
  
 <br>
  
-### Para entrar em contato comigo ou falar sobre programação me encontre nas redes abaixo! ;)
+### Para entrar em contato comigo ou falar sobre programação me encontre nas redes abaixo ;)
  
 <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
