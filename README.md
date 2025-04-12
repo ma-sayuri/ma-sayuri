@@ -1,4 +1,4 @@
-## Olá Eu sou a Maria Sayuri!
+## Olá, eu sou a Maria Sayuri!
 - 🔭 Hoje eu trabalho com Python
 - 📘 Estudando Python, Java e SQL Server
 <div>
