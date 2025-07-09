@@ -1,5 +1,5 @@
 ## Olá, eu sou a Maria Sayuri!
-- 🔭 Hoje eu trabalho com Python
+- 🔭 Hoje eu trabalho com Python e outras tecnologias
 - 📘 Estudando Python, Java e SQL Server
 <div>
     <div align="left">
